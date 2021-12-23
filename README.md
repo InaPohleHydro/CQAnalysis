@@ -1,5 +1,4 @@
-# CQAnalysis
-# CQAnalysis
+# C-Q Analysis
 This repository includes the R Code used to assess concentration-discharge (c-Q) relationships as presented in Pohle, I., Baggaley, N., Palarea-Albaladejo, J., Stutter, M., Glendell, M. (2021). A framework for assessing concentration-discharge catchment behavior from low-frequency water quality data. Water Resources Research, 57, e2021WR029692. https://doi.org/10.1029/2021WR029692
 
 The code has also been applied in Hashemi, F., Pohle, I., Pullens, J.W.M., Tornbjerg, H., Kyllmar, K., Marttila, H., Lepistö, A., Kløve, B., Futter, M., Kronvang, B. (2020). Conceptual Mini-Catchment Typologies for Testing Dominant Controls of Nutrient Dynamics in Three Nordic Countries. Water 2020, 12, 1776. https://doi.org/10.3390/w12061776 
