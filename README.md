@@ -7,4 +7,4 @@ The repository contains three files:
 
 1. Functions_cQ_Analysis:   R code of functions to carry out the c-Q analysis: .R
 2. Apply_Functions_cQ_Analysis.R:   A script showing how these functions can be applied to example data
-3. example_data.txt  A synthetic example data set of low-frequency concentration and discharge data
+3. example_data.txt:  A synthetic example data set of low-frequency concentration and discharge data
