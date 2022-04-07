@@ -5,6 +5,7 @@ library(Kendall) #for Kendall test used in trend_detection()
 library(hydroTSM) #for flow duration curve used in quantiles_from_fdc() and 
 library(minpack.lm) #for fitting concentration discharge models in 
 library(hydrostats) #for baseflow separation used in rising_peak_falling()
+minimum_valid_datasets <- 10 #the minimum of paired concentration and discharge data sets. if below minimum, the computation will not be carried out
 
 #Analyses cQ type and chemostatic vs. chemodynamic behaviour - integrates all other functions
 analyse_type_cQ_and_chemostatic_chemodynamic <- function(cQ_input_data){ # data frame containing Date, Discharge, concentration
